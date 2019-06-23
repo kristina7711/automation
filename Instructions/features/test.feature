@@ -67,6 +67,8 @@ Scenario: Make sure user can add item to the cart
  Then Add 2 items to the cart
  Then Click the Add to cart button
  Then Verify 2 item were added to the cart
+ 
+ #test
 
 
 
